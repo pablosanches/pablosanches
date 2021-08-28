@@ -1,6 +1,9 @@
-### Hi there, I'm [Pablo Sanches!](https://pablosanches.github.io) 👋
+### Hi there, I'm [Pablo Sanches!](https://pablosanches.github.io) ;)
 
 Hi, I'm Pablo Sanches, a passionate self-taught developer from Brazil.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pablosanches)](https://github.com/pablosanches)
+[![Linkedin Badge](https://img.pablosanches.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablosanches/)](https://www.linkedin.com/in/fagnerpsantos/)
 
 - 🔭 I’m currently working on [LojaVirtual.com.br](https://www.lojavirtual.com.br/)
 - 🌱 I’m currently learning ReactJS
