@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pablo Sanches</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<div>
+<div style="text-align:  center; display: inline-block">
   <a href="https://github.com/pablosanches" title="https://github.com/pablosanches" style="width: 100%; display: block;">
     <img class="display:inline-block" align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=pablosanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img class="display:inline-block" align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanches&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
-<div style="text-align:  center; display: inline_block"><br>
+<div style="text-align:  center; display: inline-block">
+  <br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
