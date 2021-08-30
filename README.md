@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/pablosanches" title="https://github.com/pablosanches" style="width: 100%; display: block;">
-    <img class="display:inline-block" align="center" width="450em" src="https://github-readme-stats.vercel.app/api?username=pablosanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width:45%;"/>
-    <img class="display:inline-block" align="center" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanches&layout=compact&langs_count=7&theme=dracula" style="max-width:45%;"/>
+    <img class="display:inline-block" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pablosanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width:45%;"/>
+    <img class="display:inline-block" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanches&layout=compact&langs_count=7&theme=dracula" style="max-width:45%;"/>
   </a>
 </div>
 
