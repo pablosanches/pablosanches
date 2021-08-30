@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
 <div>
-  <a href="https://github.com/pablosanches" title="https://github.com/pablosanches">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablosanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanches&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/pablosanches" title="https://github.com/pablosanches" style="width: 100%; display: block;">
+    <img class="display:inline-block" height="180em" src="https://github-readme-stats.vercel.app/api?username=pablosanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img class="display:inline-block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanches&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
