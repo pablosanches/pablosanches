@@ -96,6 +96,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pablosanches/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pablosanches/))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/pablosanches/](https://www.linkedin.com/in/pablosanches/))]([https://www.linkedin.com/in/pablosanches/](https://www.linkedin.com/in/pablosanches/))
 [![Gmail Badge](https://img.shields.io/badge/-sanches.webmaster@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanches.webmaster@gmail.com)](mailto:sanches.webmaster@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/pablosanches?label=follow&style=social)]([https://github.com/pablosanches](https://github.com/pablosanches))
