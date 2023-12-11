@@ -59,7 +59,7 @@
 
 <br/>
 
-![pablosanches](https://github-readme-stats.vercel.app/api?username=pablosanches&theme=cobalt)(https://github.com/pablosanches)
+[![pablosanches](https://github-readme-stats.vercel.app/api?username=pablosanches&theme=cobalt)](https://github.com/pablosanches)
 
 <h3>Onde me encontrar</h3>
 
