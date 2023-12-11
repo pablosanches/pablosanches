@@ -11,7 +11,7 @@
 **Linguagens**
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,7 +41,7 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=for-the-badge&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=for-the-badge&logo=travis)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -59,9 +59,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Pablo Sanches">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablosanches&theme=dracula&show_icons=true" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=pablosanches&show_icons=true&theme=cobalt&card_width=200)
 
 <h3>Onde me encontrar</h3>
 
