@@ -12,7 +12,7 @@ I am a software engineer with several years of experience dedicated to mastering
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,git,linux,mongodb,mysql,nginx,rabbitmq,php,js,typescript)](https://skillicons.dev)
 
-<h3>Onde me encontrar</h3>
+<hr />
 
 [![Linkedin](https://img.shields.io/badge/-pablosanches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablosanches/)](https://www.linkedin.com/in/pablosanches/)
 [![Gmail Badge](https://img.shields.io/badge/-sanches.webmaster@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanches.webmaster@gmail.com)](mailto:sanches.webmaster@gmail.com)
