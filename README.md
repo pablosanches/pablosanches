@@ -1,10 +1,11 @@
 I am a software engineer with several years of experience dedicated to mastering best development practices, software architecture, and cloud environments. Over the past few years, I have been focused on expanding my knowledge by learning new programming languages and improving my skills in modern development frameworks and methodologies.
 
+
 <center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanches&hide=html&layout=compact&theme=cobalt" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pablosanches&theme=cobalt"/></td>
+        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=pablosanches&theme=cobalt"/></td>
     </tr>   
 </table>
 </center>  
