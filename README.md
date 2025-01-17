@@ -1,6 +1,6 @@
 I am a software engineer with several years of experience dedicated to mastering best development practices, software architecture, and cloud environments. Over the past few years, I have been focused on expanding my knowledge by learning new programming languages and improving my skills in modern development frameworks and methodologies.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,git,linux,mongodb,mysql,nginx,rabbitmq,php,js,typescript)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=aws,bash,docker,git,linux,mongodb,mysql,nginx,rabbitmq,php,js,typescript,nestjs,kubernetes](https://skillicons.dev/icons?i=aws,bash,docker,git,linux,kubernetes,mongodb,mysql,postgresql,nginx,rabbitmq,php,js,typescript,nestjs,nextjs,react))](https://skillicons.dev)
 
 <hr />
 
